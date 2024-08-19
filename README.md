@@ -40,9 +40,9 @@ To run the notebook on your local machine, follow these steps:
    cd Machine-Learning
    ```
 
-3. Install the required dependencies:
+3. Install the required dependencies manually:
    ```bash
-   pip install -r requirements.txt
+   pip install pandas numpy scikit-learn matplotlib seaborn
    ```
 
 4. Launch Jupyter Notebook:
