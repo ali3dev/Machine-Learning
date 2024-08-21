@@ -65,8 +65,3 @@ To run the notebook on your local machine, follow these steps:
 ## Usage
 
 This project is intended for educational purposes and can be used as a reference for building end-to-end machine learning pipelines. You can modify the notebook to suit different datasets or algorithms, depending on your needs.
-
-## Acknowledgments
-
-- This project utilizes data and libraries from various open-source resources.
-- Special thanks to the contributors of the machine learning community for providing valuable tutorials and documentation.
